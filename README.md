@@ -1,7 +1,7 @@
 
 <p align="center">
-  <img src="./hey everyone.svg"/ >
-   <img width="200" src="./cat.gif"/>
+  <img  width="450"  src="./hey everyone.svg"/ >
+   <img width="150" src="./cat.gif"/>
 </p>
 
 <p align="center">
