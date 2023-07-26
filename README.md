@@ -10,6 +10,6 @@
 <a href="https://www.instagram.com/thepiyushmalhotra/">
   <img height="50" src="./twiter.png"/>
 </a>
-
+</p>
 
 ```yaml * YOUR TEXT GOES HERE * ```
