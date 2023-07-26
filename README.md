@@ -23,11 +23,7 @@
 👨‍💻A little bit about me :
 </h2>
 
-
-
-
 ```yaml 
-
 const eliVillalejos = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
   pronouns: ["she", "her"],
@@ -37,8 +33,7 @@ const eliVillalejos = {
   challenge: "I am honing my React skills and picking up TypeScript",
   funFacts: ['I have 4+ years of remote work experience with devs 
   from all over the world', 
-  'my tiny chihuahua dog is ready to woof at the right offer']
-
+  'my tiny chihuahua dog is ready to woof at the right offer']}
  ```
 
  <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
@@ -47,4 +42,4 @@ const eliVillalejos = {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
-![Snake animation](https://github.com/Nessrine88/Nessrine88/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
