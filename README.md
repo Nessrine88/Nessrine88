@@ -22,6 +22,7 @@
 <p align="center">
 <img src="./R.gif"/>
 </p>
+<img src="https://t.bkit.co/w_64c16589bb841.gif" />
 <h2>
 👨‍💻A little bit about me :
 </h2>
