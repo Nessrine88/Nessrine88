@@ -2,9 +2,12 @@
 <p align="center">
   <img  width="450"  src="./hey everyone.svg"/ >
    <img width="150" src="./cat.gif"/>
+
 </p>
 
+
 <p align="center">
+   
 <a href="https://github.com/Nessrine88">
   <img height="50" src="./github.png"/>
 </a>
@@ -25,15 +28,13 @@
 
 ```yaml 
 const eliVillalejos = {
-  lookingFor: "Front-end developer" || "Full-stack web developer",
+  lookingFor: "Back-end developer||Front-end developer" || "Full-stack web developer",
   pronouns: ["she", "her"],
-  code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, 
-  Tailwind CSS, Material UI],
-  askMeAbout: [Chihuahuas, The 1975, food recipes, renovation shows],
+  code: [JavaScript,HTML/CSS,Bootstrap],
+  askMeAbout: [Cats, food recipes, renovation shows],
   challenge: "I am honing my React skills and picking up TypeScript",
-  funFacts: ['I have 4+ years of remote work experience with devs 
-  from all over the world', 
-  'my tiny chihuahua dog is ready to woof at the right offer']}
+  Study: ['I'am currently completing a coursework at Microverse', ]
+  'My tiny cat is ready to meow at the right offer.']}
  ```
 
  <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
