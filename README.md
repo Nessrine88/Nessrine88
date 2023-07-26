@@ -12,7 +12,7 @@
 </a>
 </p>
 <p align="center">
-<img src="./OIP.jpeg"/>
+<img src="./cat.gif"/>
 </p>
 
 ```yaml * YOUR TEXT GOES HERE * ```
