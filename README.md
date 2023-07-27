@@ -49,7 +49,7 @@ const Macherki Nessrine = {
 </p>
 
 
-
+![Visitor Count](https://profile-counter.glitch.me/{Nessrine88}/count.svg)
 
 ![Nessrine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nessrine88&show_icons=true&theme=cobalt)
 
