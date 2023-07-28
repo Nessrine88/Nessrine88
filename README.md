@@ -51,7 +51,13 @@ const Macherki Nessrine = {
 
 ![Visitor Count](https://profile-counter.glitch.me/{Nessrine88}/count.svg)
 
-![Nessrine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nessrine88&show_icons=true&theme=cobalt)
+<p display="block-inline">
+
+![Nessrine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nessrine88&show_icons=true&theme=cobalt)               ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nessrine88&theme=cobalt)
+
+
+
+</p>
 
 ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 =======
