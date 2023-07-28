@@ -24,7 +24,7 @@
 </p>
 <img src="https://t.bkit.co/w_64c16589bb841.gif" />
 <h2>
-👨‍💻A little bit about me :
+<img  width="50" src="https://camo.githubusercontent.com/c4cc8fb0f0c06f0057640b46aab87e483f54e913fdbf52c9ee690c8204c52b44/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d776869737065722e676966"/>A little bit about me :
 </h2>
 
 ```yaml 
@@ -49,15 +49,11 @@ const Macherki Nessrine = {
 </p>
 
 
-![Visitor Count](https://profile-counter.glitch.me/{Nessrine88}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{Nessrine88}&theme=transparent/count.svg)
 
-<p display="block-inline">
+![Nessrine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nessrine88&show_icons=true&theme=transparent)   [![GitHub Streak](https://streak-stats.demolab.com/?user=Nessrine88&theme=transparent)](https://git.io/streak-stats)
 
-![Nessrine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nessrine88&show_icons=true&theme=cobalt)               ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nessrine88&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nessrine88&theme=transparent ) 
 
-
-
-</p>
-
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif align="center"](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 =======
