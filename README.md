@@ -62,7 +62,7 @@ const Macherki Nessrine = {
 ![Nessrine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nessrine88&show_icons=true&theme=cobalt) [![GitHub Streak](https://streak-stats.demolab.com/?user=Nessrine88&theme=material)](https://git.io/streak-stats)
 
 </div>
-<h2> ✍️ Favourit quote</h2>
+<h2> ✍️ Favorite quote</h2>
 <div  background-color="black"; color="white">
  I do not enlighten those who are not eager to learn, nor arouse
 those who are not anxious to give an explanation themselves. If I
