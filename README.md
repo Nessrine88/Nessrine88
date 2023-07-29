@@ -62,6 +62,15 @@ const Macherki Nessrine = {
 ![Nessrine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nessrine88&show_icons=true&theme=cobalt) [![GitHub Streak](https://streak-stats.demolab.com/?user=Nessrine88&theme=material)](https://git.io/streak-stats)
 
 </div>
-
+<h2> ✍️ Favourit quote</h2>
+<div  background-color="black"; color="white">
+ I do not enlighten those who are not eager to learn, nor arouse
+those who are not anxious to give an explanation themselves. If I
+have presented one corner of the square and they cannot come
+back to me with the other three, I should not go over the points
+again.
+― Confucius
+  </div>
+  
 ![snake gif align="center"](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 =======
