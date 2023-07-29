@@ -71,6 +71,9 @@ back to me with the other three, I should not go over the points
 again.
 ― Confucius
   </div>
+<h2>🏆 GitHub Trophies</h2>
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Nessrine88)](https://github.com/ryo-ma/github-profile-trophy)
   
 ![snake gif align="center"](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 =======
