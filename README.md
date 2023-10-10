@@ -64,11 +64,8 @@ const Macherki Nessrine = {
 </div>
 <h2> ✍️ Favorite quote</h2>
 <div  background-color="black"; color="white">
- I do not enlighten those who are not eager to learn, nor arouse
-those who are not anxious to give an explanation themselves. If I
-have presented one corner of the square and they cannot come
-back to me with the other three, I should not go over the points
-again.
+And be patient! Certainly Allah does not discount the reward of the good-doers.
+  Ayah Hud (Hud) 11:115
 ― Confucius
   </div>
 <h2>🏆 GitHub Trophies</h2>
