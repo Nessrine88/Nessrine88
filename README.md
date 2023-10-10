@@ -65,8 +65,8 @@ const Macherki Nessrine = {
 <h2> ✍️ Favorite quote</h2>
 <div  background-color="black"; color="white">
 And be patient! Certainly Allah does not discount the reward of the good-doers.
-  Ayah Hud (Hud) 11:115
-― Confucius
+  _Ayah Hud (Hud) 11:115
+
   </div>
 <h2>🏆 GitHub Trophies</h2>
 
