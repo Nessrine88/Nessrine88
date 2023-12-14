@@ -1,13 +1,9 @@
 
 <p align="center">
-  <img  width="450"  src="./hey everyone.svg"/ >
+  <img  width="470"  src="./hey everyone.svg"/ >
    <img width="150" src="./output-onlinegiftools.gif"/>
-
 </p>
-
-
 <p align="center">
-   
 <a href="https://github.com/Nessrine88">
   <img height="50" src="./github.png"/>
 </a>
@@ -18,11 +14,10 @@
   <img height="50" src="./twiter.png"/>
 </a>
 </p>
-
 <p align="center">
 <img src="./R.gif"/>
 </p>
-<img src="https://t.bkit.co/w_64c16589bb841.gif" />
+<img src="https://t.bkit.co/w_64c16589bb841.gif" border-radius= "50" />
 <h2>
 <img  width="50" src="https://camo.githubusercontent.com/c4cc8fb0f0c06f0057640b46aab87e483f54e913fdbf52c9ee690c8204c52b44/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d776869737065722e676966"/>A little bit about me :
 </h2>
@@ -39,29 +34,38 @@ const Macherki Nessrine = {
  ```
 
  <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://th.bing.com/th/id/OIP.P9pvDXfTcEL96v8-DknlmQAAAA?pid=ImgDet&w=297&h=337&rs=1" alt="bash" width="60" height="45"/>
-<img src="https://th.bing.com/th/id/OIP.Y-1jcuu23Iq3qxSXBVCBjAHaHa?pid=ImgDet&w=500&h=500&rs=1" alt="bash" width="60" height="45"/>
-<img src="https://th.bing.com/th/id/OIP.ckalc6jinNzcHsl0_oDmTgHaHa?pid=ImgDet&w=512&h=512&rs=1" alt="bash" width="60" height="45"/>
-<img src="https://th.bing.com/th/id/R.2725cdfc8c926a716c4f47550d22f199?rik=h2k%2fBIlrz3%2bm1A&pid=ImgRaw&r=0&sres=1&sresct=1" alt="bash" width="60" height="45"/>
-  
-</p>
+<div align="left">
+  <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="60" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="60" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="60" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="60" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50" height="35" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="60" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="60" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="60" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"  width="60" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" width="60" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="60" height="45" />
 
 
-![Visitor Count](https://profile-counter.glitch.me/{Nessrine88}&theme=transparent/count.svg)
 
-<div align="center">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nessrine88&theme=cobalt)
-  
-</div>
+</div> 
 
-<div align="center">
+
+<br> <br>
+
+
+<div align="left">
   
 ![Nessrine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nessrine88&show_icons=true&theme=cobalt) [![GitHub Streak](https://streak-stats.demolab.com/?user=Nessrine88&theme=material)](https://git.io/streak-stats)
 
 </div>
+
+
 <h2> ✍️ Favorite quote</h2>
 <div  background-color="black"; color="white">
 And be patient! Certainly Allah does not discount the reward of the good-doers.
@@ -72,5 +76,7 @@ And be patient! Certainly Allah does not discount the reward of the good-doers.
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=Nessrine88)](https://github.com/ryo-ma/github-profile-trophy)
   
-![snake gif align="center"](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
-=======
+<h2>👀 Thanks for exploring! You're visitor number:</h2>
+
+![Visitor Count](https://profile-counter.glitch.me/{Nessrine88}&theme=transparent/count.svg)
+
