@@ -26,7 +26,7 @@
 const Macherki Nessrine = {
   lookingFor: "Back-end developer||Front-end developer" || "Full-stack web developer",
   pronouns: ["she", "her"],
-  code: [JavaScript,HTML/CSS,Bootstrap],
+  code: [JavaScript,HTML/CSS,Bootstrap,React, Redux, Ruby on Rails],
   askMeAbout: [Cats, food recipes, renovation shows],
   challenge: "I am honing my React skills and picking up TypeScript",
   Study: ['I'am currently completing a coursework at Microverse', ]
