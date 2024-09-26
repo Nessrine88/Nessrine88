@@ -1,7 +1,7 @@
 
-<p align="center">
+<p align="center" border-radius= "15">
   <img  width="470"  src="./hey everyone.svg"/ >
-   <img width="150" src="./output-onlinegiftools.gif"/>
+   <img width="150"   border-radius= "15"  src="./output-onlinegiftools.gif"/>
 </p>
 <p align="center">
 <a href="https://github.com/Nessrine88">
@@ -19,7 +19,7 @@
 </p>
 <img src="https://t.bkit.co/w_64c16589bb841.gif" border-radius= "50" />
 <h2>
-<img  width="50" src="https://camo.githubusercontent.com/c4cc8fb0f0c06f0057640b46aab87e483f54e913fdbf52c9ee690c8204c52b44/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d776869737065722e676966"/>A little bit about me :
+<img  width="30" src="https://i.pinimg.com/originals/99/69/d2/9969d2bc836ee216a3319d0c15d8ad35.gif"/>A little bit about me :
 </h2>
 
 ```yaml 
@@ -47,7 +47,6 @@ const Macherki Nessrine = {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="60" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="60" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"  width="60" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" width="60" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="60" height="45" />
 
