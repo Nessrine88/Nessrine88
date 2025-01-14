@@ -89,7 +89,9 @@ const NessrineMacherki = {
 <h2>👥 Profile Views</h2>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Nessrine88/count.svg" alt="Visitor Count"/>
+  
+![Profile Views](https://komarev.com/ghpvc/?username=Nessrine88&color=red&style=for-the-badge&label=Hi+VISITOR)
+
 </div>
 
 ---
