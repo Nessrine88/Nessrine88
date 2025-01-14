@@ -1,81 +1,105 @@
-
-<p align="center" border-radius= "15">
-  <img  width="470"  src="./hey everyone.svg"/ >
-   <img width="150"   border-radius= "15"  src="./output-onlinegiftools.gif"/>
-</p>
 <p align="center">
-<a href="https://github.com/Nessrine88">
-  <img height="50" src="./github.png"/>
-</a>
-<a href="https://www.linkedin.com/in/nessrine-macherki-86959196/">
-  <img height="50" src="./linkedin.png"/>
-</a>
-<a href="https://twitter.com/Nessour88">
-  <img height="50" src="./twiter.png"/>
-</a>
+  <img width="470" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Nessrine+%F0%9F%91%8B;Full-Stack+Developer;Welcome+to+my+Profile!" alt="Typing SVG"/>
+  <img width="200" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="Woman Coding"/>
 </p>
-<p align="center">
-<img src="./R.gif"/>
-</p>
-<img src="https://t.bkit.co/w_64c16589bb841.gif" border-radius= "50" />
-<h2>
-<img  width="30" src="https://i.pinimg.com/originals/99/69/d2/9969d2bc836ee216a3319d0c15d8ad35.gif"/>A little bit about me :
-</h2>
 
-```yaml 
-const Macherki Nessrine = {
-  lookingFor: "Back-end developer||Front-end developer" || "Full-stack web developer",
-  pronouns: ["she", "her"],
-  code: [JavaScript,HTML/CSS,Bootstrap,React, Redux, Ruby on Rails],
-  askMeAbout: [Cats, food recipes, renovation shows],
-  challenge: "I am honing my React skills and picking up TypeScript",
-  Study: ['I'am currently completing a coursework at Microverse', ]
-  'My tiny cat is ready to meow at the right offer.']}
- ```
-
- <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<div align="left">
-  <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="60" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="60" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="60" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="60" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50" height="35" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="60" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="60" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="60" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" width="60" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="60" height="45" />
-
-
-
-</div> 
-
-
-<br> <br>
-
-
-<div align="left">
-  
-![Nessrine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nessrine88&show_icons=true&theme=cobalt) [![GitHub Streak](https://streak-stats.demolab.com/?user=Nessrine88&theme=material)](https://git.io/streak-stats)
-
+<div align="center">
+  <a href="https://github.com/Nessrine88">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nessrine-macherki-86959196/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/Nessour88">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Tech Animation"/>
+</div>
 
-<h2> ✍️ Favorite quote</h2>
-<div  background-color="black"; color="white">
-And be patient! Certainly Allah does not discount the reward of the good-doers.
-  _Ayah Hud (Hud) 11:115
+<img src="https://t.bkit.co/w_64c16589bb841.gif" style="border-radius: 50px;" alt="Profile Views"/>
 
-  </div>
+<h2>
+  <img width="30" src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="About Me Icon"/> About Me
+</h2>
+
+```javascript
+const NessrineMacherki = {
+  lookingFor: "Full-stack Web Developer",
+  pronouns: ["she", "her"],
+  technologies: {
+    frontEnd: {
+      js: ["React", "Redux", "Next.js"],
+      css: ["Tailwind CSS", "Bootstrap", "CSS3", "HTML5"]
+    },
+    backEnd: {
+      ruby: ["Ruby on Rails"],
+      js: ["Node.js"],
+      cms: ["Strapi", "Sanity"]
+    },
+    databases: ["PostgreSQL"],
+    tools: ["Git", "Figma", "npm", "Babel", "REST APIs"]
+  },
+  currentFocus: "Mastering React and learning TypeScript",
+  education: "Currently completing coursework at Microverse",
+  funFact: "My tiny cat is ready to meow at the right offer! 🐱",
+  interests: ["Cats", "Food Recipes", "Renovation Shows"]
+};
+```
+
+<h2>🛠️ Technologies & Tools</h2>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white" />
+</div>
+
+<h2>📊 GitHub Statistics</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nessrine88&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nessrine88&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nessrine88&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
 <h2>🏆 GitHub Trophies</h2>
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Nessrine88)](https://github.com/ryo-ma/github-profile-trophy)
-  
-<h2>👀 Thanks for exploring! You're visitor number:</h2>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nessrine88&theme=radical&row=1" alt="GitHub Trophies"/>
+</div>
 
-![Visitor Count](https://profile-counter.glitch.me/{Nessrine88}&theme=transparent/count.svg)
+<h2>✍️ Favorite Quote</h2>
 
+<div align="center">
+  <blockquote>
+    "And be patient! Certainly Allah does not discount the reward of the good-doers."
+    <br/>
+    <em>— Ayah Hud (Hud) 11:115</em>
+  </blockquote>
+</div>
+
+<h2>👥 Profile Views</h2>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Nessrine88/count.svg" alt="Visitor Count"/>
+</div>
+
+---
+
+<div align="center">
+  <b>Let's connect and build something amazing together! 🚀</b>
+</div>
