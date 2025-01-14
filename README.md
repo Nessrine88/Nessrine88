@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="470" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Nessrine+%F0%9F%91%8B;Full-Stack+Developer;Welcome+to+my+Profile!" alt="Typing SVG"/>
+  <img width="470" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Nessrine+%F0%9F%91%8B;Full-Stack+Developer;Welcome+to+my+Profile!" alt="Typing SVG" width="700" />
   <img width="200" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="Woman Coding"/>
 </p>
 
@@ -10,20 +10,14 @@
   <a href="https://www.linkedin.com/in/nessrine-macherki-86959196/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/Nessour88">
+  <a href="https://x.com/NessrineDev">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Tech Animation"/>
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Separator Line"/>
 
 <img src="https://t.bkit.co/w_64c16589bb841.gif" style="border-radius: 50px;" alt="Profile Views"/>
-
-<h2>
-  <img width="30" src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="About Me Icon"/> About Me
-</h2>
 
 ```javascript
 const NessrineMacherki = {
