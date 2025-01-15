@@ -18,7 +18,7 @@
 </div>
 
 <div align="center">
-  <img src="https://files.oaiusercontent.com/file-8PcDU8cQaw9dEVcnExK3S4?se=2025-01-15T10%3A52%3A08Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D4dce79d3-f300-458c-84bf-0b60850b6294.webp&sig=rP2352tXk8J5VsRphhbV9kWWhFlu8VbvXhS5T7GUUQk%3D" width="280" alt="Woman Animation"/>
+  <img src="/woman.png" width="280" alt="Woman Animation"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Separator Line"/>
