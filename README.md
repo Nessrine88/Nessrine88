@@ -1,5 +1,7 @@
+
+
 <p align="center">
-  <img width="470" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Nessrine+%F0%9F%91%8B;Full-Stack+Developer;Welcome+to+my+Profile!" alt="Typing SVG" width="700" />
+  <img width="600" font="bold" src="https://readme-typing-svg.herokuapp.com?font=Rage+Italic&weight=600&size=30&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Nessrine+%F0%9F%91%8B;Full-Stack+Developer;Welcome+to+my+Profile!" alt="Typing SVG"/>
   <img width="200" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="Woman Coding"/>
 </p>
 
@@ -10,14 +12,20 @@
   <a href="https://www.linkedin.com/in/nessrine-macherki-86959196/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://x.com/NessrineDev">
+  <a href="https://twitter.com/Nessour88">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
+</div>
+
+<div align="center">
+  <img src="https://files.oaiusercontent.com/file-8PcDU8cQaw9dEVcnExK3S4?se=2025-01-15T10%3A52%3A08Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D4dce79d3-f300-458c-84bf-0b60850b6294.webp&sig=rP2352tXk8J5VsRphhbV9kWWhFlu8VbvXhS5T7GUUQk%3D" width="280" alt="Woman Animation"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Separator Line"/>
 
 <img src="https://t.bkit.co/w_64c16589bb841.gif" style="border-radius: 50px;" alt="Profile Views"/>
+
+<div style="background: #1a1a1a; padding: 20px; border-radius: 10px; border: 2px solid #7C3AED;">
 
 ```javascript
 const NessrineMacherki = {
@@ -42,6 +50,8 @@ const NessrineMacherki = {
   interests: ["Cats", "Food Recipes", "Renovation Shows"]
 };
 ```
+
+</div>
 
 <h2>🛠️ Technologies & Tools</h2>
 
